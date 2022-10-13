@@ -1100,6 +1100,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer (HTML)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker (HTML)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html) - Henrik Joreteg (HTML)
+* [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript) - Launch School (HTML)
 * [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Lindley (HTML)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite (HTML)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
